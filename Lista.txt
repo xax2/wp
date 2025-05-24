@@ -9,7 +9,7 @@ dazon1b,DAZN 1 b,[web]/webplayer3/jw_d1.html,tipovisor2, ,
 dazon2,DAZN 2,[web]/clapper_d2.html,tipovisor2, , 
 dazonf1a,DAZN F1 a,[web]/clapper_f1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonf1c,DAZN F1 c,[web]/f1_m3u8.html,tipovisor2, ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-dazonf1d,DAZN F1 d,https://tinworld-myproxy.hf.space/proxy?url=https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8,tipovisor2,https://www.vidembed.re/ ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
+dazonf1d,DAZN F1 d,https://enz.gdplayertv.to/live-tv/f1-tv/?embed=1,tipovisor2,https://www.vidembed.re/ ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonf1e,DAZN F1 e,https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTZmMTYxZGZiYTFkLWYyMmItYjVlNC05NTg3LWUzNzcxZWM1/master.m3u8?md5=s5dnBlw2hdxDofE2dLQguQ&expires=1747611862,tipovisor2,https://www.vidembed.re/ ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonf1b,DAZN F1 b,[web]/webplayer3/jw_f1.html,tipovisor2, ,
 Salir,Salir,https://i.blogs.es/6f44dd/google-2015-1/1366_2000.jpg,tipovisor1, , 
