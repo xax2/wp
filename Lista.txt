@@ -4,6 +4,7 @@ test,testa,https://htmlpreview.github.io/?https://github.com/sanjuc/clear-key/bl
 Lalig,La liga,https://mycdn3.aws11-cdn-livestream-eu.site/hls/UEnKvE0m3zWPsyeo.m3u8,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonlaliga1,DAZN Laliga a,[web]/clapper_dlig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonlaliga2,DAZN Laliga b,[web]/webplayer3/jw_dl.html,tipovisor2, , 
+DAZON1,DAZON1,https://dokko1new.newkso.ru/wind/premium445/mono.m3u8,tipovisor2,https://lefttoplay.xyz/,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 dazon1a,DAZN 1 a,[web]/clapper_d1.html,tipovisor2, ,Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
 dazon1b,DAZN 1 b,[web]/webplayer3/jw_d1.html,tipovisor2, ,Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
 dazon2,DAZN 2,[web]/clapper_d2.html,tipovisor2, ,Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
