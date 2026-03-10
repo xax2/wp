@@ -2,6 +2,13 @@ uid,Nombre,URL,tipovisror,referer,useragent
 version,1.0.1
 test,testa,https://htmlpreview.github.io/?https://github.com/sanjuc/clear-key/blob/master/index.html,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 Lalig@,La lig@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig.html,tipovisor2,  , 
+sk1@,sk1@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig2.html,tipovisor2,  , 
+sk2@,sk2@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig3.html,tipovisor2,  , 
+sk3@,sk3@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig4.html,tipovisor2,  , 
+sk4@,sk4@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig5.html,tipovisor2,  , 
+sk5@,sk5@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig6.html,tipovisor2,  , 
+sk6@,sk6@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig7.html,tipovisor2,  , 
+sk7@,sk7@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig8.html,tipovisor2,  , 
 spn,spn,https://xaxproyect001.infinityfree.me/clapper_player/player_spnar.html,tipovisor2,  , 
 dazonlaliga1,DAZN Laliga a,[web]/clapper_dlig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 dazonlaliga2,DAZN Laliga b,[web]/webplayer3/jw_dl.html,tipovisor2, , 
