@@ -1,6 +1,5 @@
 uid,Nombre,URL,tipovisror,referer,useragent
 version,1.0.1
-test,testa,https://htmlpreview.github.io/?https://github.com/sanjuc/clear-key/blob/master/index.html,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-Lalig@,La lig@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig.html,tipovisor2,  , 
-FOX@,FOX@,https://xaxproyect001.infinityfree.me/clapper_player/player_fxar1.html?i=1,tipovisor2,  , 
+Lalig@,La lig@,[web]/player_sklig.html,tipovisor2,  , 
+FOX@,FOX@,[web]/player_fxar1.html?i=1,tipovisor2,  , 
 Salir,Salir,https://i.blogs.es/6f44dd/google-2015-1/1366_2000.jpg,tipovisor1, , 
