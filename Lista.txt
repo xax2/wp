@@ -2,23 +2,5 @@ uid,Nombre,URL,tipovisror,referer,useragent
 version,1.0.1
 test,testa,https://htmlpreview.github.io/?https://github.com/sanjuc/clear-key/blob/master/index.html,tipovisor1,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
 Lalig@,La lig@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig.html,tipovisor2,  , 
-sk1@,sk1@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig2.html,tipovisor2,  , 
-sk2@,sk2@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig3.html,tipovisor2,  , 
-sk3@,sk3@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig4.html,tipovisor2,  , 
-sk4@,sk4@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig5.html,tipovisor2,  , 
-sk5@,sk5@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig6.html,tipovisor2,  , 
-sk6@,sk6@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig7.html,tipovisor2,  , 
-sk7@,sk7@,https://xaxproyect001.infinityfree.me/clapper_player/player_sklig8.html,tipovisor2,  , 
-spn,spn,https://xaxproyect001.infinityfree.me/clapper_player/player_spnar.html,tipovisor2,  , 
-dazonlaliga1,DAZN Laliga a,[web]/clapper_dlig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-dazonlaliga2,DAZN Laliga b,[web]/webplayer3/jw_dl.html,tipovisor2, , 
-DAZON1,DAZON1,https://dokko1new.newkso.ru/wind/premium445/mono.m3u8,tipovisor2,https://lefttoplay.xyz/,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-dazon1a,DAZN 1 a,[web]/clapper_d1.html,tipovisor2, ,Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
-dazon1b,DAZN 1 b,[web]/webplayer3/jw_d1.html,tipovisor2, ,Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
-dazon2,DAZN 2,[web]/clapper_d2.html,tipovisor2, ,Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36
-dazonf1a,DAZN F1 a,[web]/clapper_f1.html,tipovisor2, ,https://claplivehdplay.ru Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36Chrome/<chrome> Mobile Safari/<safari>
-dazonf1c,DAZN F1 c,[web]/f1_m3u8.html,tipovisor2, ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-dazonf1d,DAZN F1 d,https://enz.gdplayertv.to/live-tv/f1-tv/?embed=1,tipovisor2,https://www.vidembed.re/ ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-dazonf1e,DAZN F1 e,https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTZmMTYxZGZiYTFkLWYyMmItYjVlNC05NTg3LWUzNzcxZWM1/master.m3u8?md5=s5dnBlw2hdxDofE2dLQguQ&expires=1747611862,tipovisor2,https://www.vidembed.re/ ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) AppleWebKit/<webkit> (KHTML, like Gecko) Chrome/<chrome> Mobile Safari/<safari>
-dazonf1b,DAZN F1 b,[web]/webplayer3/jw_f1.html,tipovisor2, ,
+FOX@,FOX@,https://xaxproyect001.infinityfree.me/clapper_player/player_fxar1.html?i=1,tipovisor2,  , 
 Salir,Salir,https://i.blogs.es/6f44dd/google-2015-1/1366_2000.jpg,tipovisor1, , 
