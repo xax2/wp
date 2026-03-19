@@ -1,6 +1,6 @@
 uid,Nombre,URL,tipovisror,referer,useragent
 version,1.0.1
-SKY_LIG4,SKY_LIG4,[web]/player_sklig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SKY_LIG,SKY_LIG,[web]/player_sklig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
 SKY2,SKY2,[web]/player_sklig2.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
 SKY_EVT,SKY_EVT,[web]/player_sksptevnt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
 FXAR1,FXAR1,[web]/player_fxar1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
