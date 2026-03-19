@@ -28,5 +28,4 @@ DZ3,DZ3,[web]/player_dz3pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.
 DZ4,DZ4,[web]/player_dz4pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
 DZ5,DZ5,[web]/player_dz5pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
 test,test,[web]/play1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
-
 Salir,Salir,https://i.blogs.es/6f44dd/google-2015-1/1366_2000.jpg,tipovisor1, , 
