@@ -1,5 +1,32 @@
 uid,Nombre,URL,tipovisror,referer,useragent
 version,1.0.1
-Lalig@,La lig@,[web]/player_sklig.html,tipovisor2,  , 
-FOX@,FOX@,[web]/player_fxar1.html?i=1,tipovisor2,  , 
+SKY_LIG4,SKY_LIG4,[web]/player_sklig.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SKY2,SKY2,[web]/player_sklig2.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SKY_EVT,SKY_EVT,[web]/player_sksptevnt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+FXAR1,FXAR1,[web]/player_fxar1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+FXAR2,FXAR2,[web]/player_fxar2.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+FXAR3,FXAR3,[web]/player_fxar3.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN1_ARG,SPN1_ARG,[web]/player_spnar.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN2_ARG,SPN2_ARG,[web]/player_spnar2.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN3_ARG,SPN3_ARG,[web]/player_spnar3.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN4_ARG,SPN4_ARG,[web]/player_spnar4.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN-PRM_ARG,SPN-PRM_ARG,[web]/player_spnprm.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN1_MEX,SPN1_MEX,[web]/player_spn1mx.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN2_MEX,SPN2_MEX,[web]/player_spn2mx.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPN3_MEX,SPN3_MEX,[web]/player_spn3mx.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+TDM-MEX,TDM-MEX,[web]/player_tdnmx1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+TNT_MEX,TNT_MEX,[web]/player_tntspt1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+TYC_MEX,TYC_MEX,[web]/player_tycspt1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPT1_PRTG,SPT1_PRTG,[web]/player_sp1pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPT2_PRTG,SPT2_PRTG,[web]/player_sp2pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPT3_PRTG,SPT3_PRTG,[web]/player_sp3pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPT4_PRTG,SPT4_PRTG,[web]/player_sp4pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+SPT5_PRTG,SPT5_PRTG,[web]/player_sp5pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+DZ1,DZ1,[web]/player_dz1pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+DZ2,DZ2,[web]/player_dz2pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+DZ3,DZ3,[web]/player_dz3pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+DZ4,DZ4,[web]/player_dz4pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+DZ5,DZ5,[web]/player_dz5pt.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+test,test,[web]/play1.html,tipovisor2,https://claplivehdplay.ru ,Mozilla/5.0 (Linux; Android <android>; <device> Build/<build>) 
+
 Salir,Salir,https://i.blogs.es/6f44dd/google-2015-1/1366_2000.jpg,tipovisor1, , 
